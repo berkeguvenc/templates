@@ -2,6 +2,11 @@
 
 This is the official repository for the Dokploy Open Source Templates.
 
+## Tech Stack
+
+- **Frontend:** React 19, Vite 6, Tailwind CSS 4, React Router 7, Zustand, shadcn/ui.
+- **Backend & Scripting:** Node.js, Docker Compose, TOML.
+
 ### How to add a new template
 
 
